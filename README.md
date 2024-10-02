@@ -22,8 +22,8 @@ Rapidious Ecomm is a full-stack e-commerce web application that allows users to 
 ## Technologies
 
 - **Backend**: Python, Django
-- **Frontend**: React, Node.js, npm
-- **Database**: SQLite (default), PostgreSQL (configurable)
+- **Frontend**: React, npm
+- **Database**: SQLite (default)
 - **Payment Gateway**: Stripe
 
 ---
