@@ -1,5 +1,5 @@
 # Rapidious Ecomm Assigmnet
-## youtube execution video link : 
+## youtube execution video link : https://youtu.be/EFpC9vAM6gM
 
 Rapidious Ecomm is a full-stack e-commerce web application that allows users to browse products, manage their accounts, and complete purchases using Stripe for payment processing. This README provides setup instructions for both the **backend** and **frontend** as well as an overview of the core features.
 
